@@ -1,0 +1,5 @@
+Hola mi nombre es Felipe Orduz
+
+Tengo 18 años
+
+Y estoy repasando como usar git

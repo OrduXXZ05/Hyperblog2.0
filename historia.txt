@@ -1,5 +1,5 @@
 Hola mi nombre es Felipe Orduz
 
-Tengo 18 años
+Tengo 18 años y naci en Colombia
 
 Y estoy repasando como usar git

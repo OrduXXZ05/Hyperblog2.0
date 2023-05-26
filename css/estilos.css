@@ -11,6 +11,30 @@ body {
     font-size: 16px;
 }
 
+.cabecera {
+    height: 50px;
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(45, 45, 160);
+    color: white;
+    text-align: left;
+}
+
+.cabecera p {
+    padding: 1px;
+    font-size: 20px;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.cabecera .subTitulo {
+    padding-top: 2px;
+    font-size: 15px;
+    margin: 15px;
+    font-weight: normal;
+}
+
 .post {
     width: 80%;
     border: 1px solid black;

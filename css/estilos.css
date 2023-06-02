@@ -46,3 +46,17 @@ body {
 .post h1 {
     font-size: 20px;
 }
+
+.footer {
+    height: 50px;
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(45, 45, 160);
+    display: flex;
+    color: white;
+}
+
+.footer p {
+    font-weight: bold;
+    margin: 15px;
+}

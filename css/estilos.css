@@ -46,6 +46,15 @@ body {
     margin: 0 auto;
 }
 
+.imageContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.pitbull {
+    width: 40%;
+}
+
 .post h1 {
     font-size: 20px;
 }
